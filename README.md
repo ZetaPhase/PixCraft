@@ -1,5 +1,5 @@
 # PixCraft
-PixCraft is an Image Processing desktop application built with Python's opencv and C# frontend.
+PixCraft is an Image Processing desktop application built with the OpenCV Library and C# frontend.
 
 ### Quick Start For Developers
 - https://github.com/shimat/opencvsharp - opencv for C#/.NET
